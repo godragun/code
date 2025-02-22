@@ -1,0 +1,12 @@
+hello python
+hello datbase
+hello html
+hello java
+hello css
+hello php
+hello sql
+hello angular
+hello c++
+hello c
+hello killr
+
